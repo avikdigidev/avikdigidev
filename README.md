@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I can drive more than 400 miles in a day on Bike**
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prakash-rao-shelke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakash-rao-shelke/" height="30" width="40" /></a>
 <a href="https://instagram.com/sarcastic_light" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarcastic_light" height="30" width="40" /></a>
