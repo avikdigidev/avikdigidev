@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [data-structures-and-algo](https://github.com/avikdigidev/data-structures-and-algo)
 
-- 📝 I regularly write articles on [https://prakashok.co.in](https://prakashok.co.in)
+- 📝 I write articles on [https://prakashok.co.in](https://prakashok.co.in)
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
