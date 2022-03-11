@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on [data-structures-and-algo](https://github.com/avikdigidev/data-structures-and-algo)
 
-- 📝 I regularly write articles on [prakashokraoshelke.com](prakashokraoshelke.com)
+- 📝 I regularly write articles on [https://prakashok.co.in](https://prakashok.co.in)
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - 💬 Ask me about **java, springboot, data structures**
 
-- 📫 How to reach me **email@prakashokraoshelke.com**
+- 📫 How to reach me **email@prakashok.co.in**
 
-- 📄 Know about my experiences [techwizard.prakashokraoshelke.com](techwizard.prakashokraoshelke.com)
+- 📄 Know about my experiences [https://tech.prakashok.co.in](https://tech.prakashok.co.in)
 
 - ⚡ Fun fact **I can drive more than 400 miles in a day on Bike**
 
