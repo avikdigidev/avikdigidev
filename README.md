@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/prakash-rao-shelke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakash-rao-shelke/" height="30" width="40" /></a>
 <a href="https://instagram.com/sarcastic_light" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarcastic_light" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avikdigidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avikdigidev" height="30" width="40" /></a>
-<a href="https://app.codesignal.com/profile/prakash_shelke" target="blank"><img align="center" src="https://app.codesignal.com/img/logos/logo_white.svg" alt="prakash_shelke" height="30" width="40" /></a>
+<a href="https://app.codesignal.com/profile/prakash_shelke" target="blank"><img align="center" src="https://mma.prnewswire.com/media/1626949/CodeSignal_Assessment_Platform.jpg?p=facebook" alt="prakash_shelke" height="30" width="40" /></a>
 </p><br><br>
 
 <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
