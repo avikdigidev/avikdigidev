@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Ask me about **java, springboot, rest microservices, data structures**
+- 💬 Ask me about **java 8, springboot, rest microservices, data structures**
 
 - 📫 How to reach me **email@prakashok.co.in**
 
