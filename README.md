@@ -1,15 +1,15 @@
 
 <h1 align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<h3 align="center"> Thank You for taking the time to view my GitHub Profile <br>Prakash Shelke this side, <br>-A passionate Software developer from India.</h3>
- <h2 align="center> <br>Actively looking for better oppurtunities, right now.<br></h2>
+<h3 align="center"> Thank You for taking the time to view my GitHub Profile <br>Prakash Shelke this side <br>-A passionate Software developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avikdigidev&label=Profile%20views&color=0e75b6&style=flat" alt="avikdigidev" /> </p>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avikdigidev&label=Profile%20views&color=0e75b6&style=flat" alt="avikdigidev" /> </p>
+
+<h2 align="center"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
--   Looking for better oppurtunities
+-   Actively looking for better oppurtunities, right now.
   
 - 🔭 I’m currently working on [data-structures-and-algo](https://github.com/avikdigidev/data-structures-and-algo)
 
