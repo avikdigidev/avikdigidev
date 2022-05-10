@@ -9,7 +9,7 @@
 <h2 align="center"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
--   Actively looking for better oppurtunities, right now.
+-   Actively looking for better oppurtunities, right now and would be able to join from 20th June.
   
 - 🔭 I’m currently improving in [data-structures-and-algo](https://github.com/avikdigidev/data-structures-and-algo) and Low Level Design
 
