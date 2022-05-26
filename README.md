@@ -1,5 +1,5 @@
 
-<h1 align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <h3 align="center"> Thank You for taking the time to view my GitHub Profile <br>Prakash Shelke this side <br>-A passionate Software developer from India.</h3>
 
