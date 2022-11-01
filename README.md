@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   
-- 🔭 I’m currently improving in [data-structures-and-algo](https://github.com/avikdigidev/data-structures-and-algo) and Low Level Design
+- 🔭 I’m currently improving graphql, spring web flux, drools
 
 - 📝 I write articles on [https://prakashok.co.in](https://prakashok.co.in)
 
